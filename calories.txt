@@ -13,4 +13,10 @@
 		"Protien": "0g",
 		"Sugar": "10 g"
 	}, 
+	"Tomatoes": {
+		"Calories": "44",
+		"Fat": "0g",
+		"Carbs": "142g",
+		"Protien": "90g",
+		"Sugar": "50 g"
 }
